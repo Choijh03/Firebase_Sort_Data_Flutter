@@ -1,6 +1,6 @@
 # Firebase_Sort_Data_Flutter
 
-This is FireBase Sort User Data Tutorial Application built on Flutter 3.7
+This is FireBase Sort User Data & Progress Bar Tutorial Application built on Flutter 3.7
 
 -------------------------------------------------------------------------------------
 
